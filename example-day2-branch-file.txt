@@ -1,1 +1,1 @@
-Example- adding info through user interface. This is going to get pull into my local computer.
+Example- adding info through user interface. This is going to be pulled into my local computer.
